@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         string password = "1234";
-        string username = "Ogden";
+        string username = "Member";
         string admin = "Flynn";
 
         byte passwordCount = 0;
